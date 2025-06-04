@@ -15,7 +15,7 @@
 - [📝 License](#-license.)
 
 ## Customer Support Chatbot
-
+A Python chatbot using keyword matching to answer customer questions about products and policies for a tech shop. Built as a foundation for future upgrades like NLP, dynamic replies, and web integration.
 
 ## 🛠 Built With
 
@@ -52,10 +52,13 @@ Sharon Njeri Njuraita
 Email: sharon.n.njuraita@gmail.com
 
 🤝 Contributing
+
 Contributions are welcome 
 
 🙏 Acknowledgments
+
 I would like to thank all the freely available resources made available online.
 
 📝 License
-This project is licensed under  - see the LICENSE file for details.
+
+This project is licensed under Creatives Commons Legal Code  - see the LICENSE file for details.
