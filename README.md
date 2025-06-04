@@ -61,4 +61,4 @@ I would like to thank all the freely available resources made available online.
 
 📝 License
 
-This project is licensed under Creatives Commons Legal Code  - see the LICENSE file for details.
+This project is licensed under Creatives Commons - see the LICENSE file for details.
